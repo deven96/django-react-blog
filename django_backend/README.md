@@ -1,2 +1,2 @@
-# django-react-blog
-A simple django powered react blog
+# django Blog API
+A DRF django application
